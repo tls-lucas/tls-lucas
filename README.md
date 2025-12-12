@@ -5,7 +5,7 @@
 
 + Living in Brazil 🇧🇷
 - System Information - UFGD (Federal University)
-! NodeJS and React programmer and always studying some technology
+! Python and PHP programmer and always studying
 # Interested in Architecture and Backend
 ```
 

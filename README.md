@@ -5,7 +5,7 @@
 
 + Living in Brazil 🇧🇷
 - System Information - UFGD (Federal University)
-! Python and PHP programmer and always studying
+! Python and Java programmer and always studying
 # Interested in Architecture and Backend
 ```
 
@@ -21,7 +21,8 @@
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
+![Java](https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=7A86B8)
 ![Laravel](https://img.shields.io/badge/laravel-%23F05033.svg?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
